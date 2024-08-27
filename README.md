@@ -7,6 +7,8 @@ An attempt to see and play Deadlock in *Vietnamese texts*. A (sort of) localisat
 ## why? 
 started as personal fun during playtest, I decided to bring it on up here for people to help people installing the language files and play the game in Vietnamese language. Still in progress, and need more improvement. I also hope if one day Valve developers deems this localisation project complete and accept it to be included in a next game update.
 
+This repo may work as either a stable or temporary basis to wait and see if there are any other similar project for Vietnamese localisation efforts. I am happy to help any of them if possible.
+
 ## what's in? 
 currently there are 5 folders with Vietnamese lang file which were not translated before (contain nothing more than just a few code lines indicating the language name) and then filled up with English translations as placeholder, located in `\steamapps\common\Deadlock\game\citadel\resource\localization`: (`citadel_` prefix) `main, mods, heroes, attributes, gc`. 
 
