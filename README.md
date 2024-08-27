@@ -14,7 +14,7 @@ currently there are 5 folders with Vietnamese lang file which were not translate
 There are some progress with the `main` file which contain GUI text for main menu and basic UI texts. 
 
 ## can i fix something mate?
-You are absolutely welcome to jump in! For the best localisation efforts, it is recommended that you have played the game before, getting well with gaming terms and item naming, descriptions, etc., a bit salty wording is okay but don't break the overall intention of developers. And ultimately, it is best to be a native Vietnamese knowing all these stuff. That's why I am needing help right now. I feel that only myself might not do them all well. Thanks mates.
+You are absolutely welcome to jump in! For the best localisation efforts, it is recommended that you have played the game before, getting well with gaming terms and item naming, descriptions, etc., a bit salty wording is okay but don't break the overall intention of developers. And ultimately, it is the best to be a native Vietnamese knowing all these stuff, though not required, just anyone with a competent knowledge of the language is fine. That's why I am needing help right now. I feel that only myself might not do them all well. Thanks mates.
 
 ...nothing yet here. Awaits uploads.
 .
