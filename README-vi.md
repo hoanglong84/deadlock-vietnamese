@@ -42,7 +42,7 @@ Và một bước quan trọng để bắt game hiển thị bằng tiếng ta. 
   **Settings/Graphics** (và các ảnh sau, sau 25/8)
   ![20240830221932_1](https://github.com/user-attachments/assets/41efdc98-e42f-48d3-8285-f12b54c1a277)
 
-  **The Curiosity Store/Build** (note the untranslated items)
+  **The Curiosity Store/Build** (item chưa được dịch)
   ![20240829143042_1](https://github.com/user-attachments/assets/c6a659b1-1c5a-4901-a7a8-4c2858ec9369)
 
   **Mấy cảnh in-game** 
