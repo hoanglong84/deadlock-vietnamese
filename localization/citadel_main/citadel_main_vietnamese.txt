@@ -363,13 +363,13 @@
 
 		"Citadel_Ability_IsImbued"									"Đã hấp thụ"
 		"Citadel_ComponentRequired"									"Thành phần:"
-		"Citadel_ComponentOwned"									"owned"
-		"Citadel_ItemOwnedBy"										"Owned by:"
+		"Citadel_ComponentOwned"									"đã sở hữu"
+		"Citadel_ItemOwnedBy"										"Đã sở hữu bởi:"
 		"Citadel_ItemModifies"										"Modifies"
-		"Citadel_ComponentUseIn"									"Currently Used in:"
-		"Citadel_IsComponentOf"										"Is Component Of:"
+		"Citadel_ComponentUseIn"									"Được sử dụng gần đây trong:"
+		"Citadel_IsComponentOf"										"Là thành phần của:"
 		"Citadel_Item_BuildAnnotation"								"{s:mod_annotation}"
-		"Citadel_Ability_BuildAnnotation"							"Recommended Next Ability"
+		"Citadel_Ability_BuildAnnotation"							"Kỹ năng tiếp theo được khuyên dùng"
 
 		"Citadel_Friends_WindowTitle"						"Bạn bè"
 		"Citadel_FriendsCategory_Party"						"Trong đội"
