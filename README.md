@@ -1,4 +1,4 @@
-bạn nói tiếng Nôm? hãy đọc [readme ở đây!](https://github.com/Barnacl437/deadlock-vietnamese/blob/main/README-vi.md).
+bạn nói tiếng Việt? hãy đọc [readme ở đây!](https://github.com/Barnacl437/deadlock-vietnamese/blob/main/README-vi.md).
 
 # deadlock-vietnamese
 An attempt to see and play Deadlock in *Vietnamese texts*. A (sort of) localisation project.
