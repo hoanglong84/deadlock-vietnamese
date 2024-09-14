@@ -7,7 +7,7 @@ An attempt to see and play Deadlock in *Vietnamese texts*. A (sort of) localisat
 [Deadlock](https://store.steampowered.com/app/1422450) is a currently in-early-development game by [Valve Software](https://valvesoftware.com). There are already several community translation projects, and this will *possibly* become one.
 
 ## why? 
-started as personal fun during secret times of the game's playtest, I decided to bring it on up here for people to help people installing the language files and play the game in Vietnamese language. Still in progress, and need more improvement. I also hope if one day Valve developers decide to add Vietnamese to be included in a next game update, and this translation will be a temporary empty-filler.
+started as personal fun during secret times of the game's playtest, I decided to bring it on up here for people to help people installing the language files and play the game in Vietnamese language. Still in progress, and need more improvement. I also hope if one day Valve developers decide to add Vietnamese to be included in a next game update, and this translation, for now, is a temporary a something empty-filler.
 
 This repo may work as either a stable or temporary basis to wait and see if there are any other similar project for Vietnamese localisation efforts. I am happy to help any of them if possible.
 
